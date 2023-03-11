@@ -1,0 +1,34 @@
+Mapa de Animações do Velho
+
+Parado: 1 - 100
+Parado para Andando: 101 - 104
+Andando: 105 - 145
+Esbarrado: 146 - 190
+Sendo Atropelado: 191 - 213
+Morto: 214
+Tomando Chute na Canela: 215 - 310
+Olhando para o Lado: 311 - 340
+Cabisbaixo: 341 - 440
+Sendo Roubado: 441 - 540
+Morrendo: 541 - 560
+
+NPC: 
+Andando: 1 - 31
+
+Gay: 
+Idle: 1 - 100
+Andando: 101 - 136
+Correndo: 140 - 168
+Batendo: 170 - 205
+Tomando Dano: 206 - 225
+Morrendo: 226 - 320
+
+Moloque: 
+Idle com pau: 1 - 100
+Andando com pau: 105 - 135
+Correndo com pau: 136 - 166
+Batendo com pau: 167 - 200
+
+Correndo: 1 - 31
+Chutando: 32 - 53
+Roubar: 54 - 100

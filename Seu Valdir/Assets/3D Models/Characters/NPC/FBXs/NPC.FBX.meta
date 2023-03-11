@@ -1,0 +1,213 @@
+fileFormatVersion: 2
+guid: 4751980136ec52845999d42e5885b5f3
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Bone_AnkleL
+    100002: Bone_AnkleR
+    100004: Bone_ArmL
+    100006: Bone_ArmR
+    100008: Bone_ChinL
+    100010: Bone_ChinR
+    100012: Bone_Column1
+    100014: Bone_Column2
+    100016: Bone_Column3
+    100018: Bone_Column4
+    100020: Bone_FootL
+    100022: Bone_FootR
+    100024: Bone_ForeArmL
+    100026: Bone_ForeArmR
+    100028: Bone_HandL
+    100030: Bone_HandR
+    100032: Bone_Head
+    100034: Bone_HipL
+    100036: Bone_HipR
+    100038: Bone_LegL
+    100040: Bone_LegR
+    100042: Bone_Master
+    100044: Bone_Neck
+    100046: Bone_ScapulaL
+    100048: Bone_ScapulaR
+    100050: Bone_TopFootL
+    100052: Bone_TopFootR
+    100054: Bone_TopHandL
+    100056: Bone_TopHandR
+    100058: //RootNode
+    100060: NPC
+    400000: Bone_AnkleL
+    400002: Bone_AnkleR
+    400004: Bone_ArmL
+    400006: Bone_ArmR
+    400008: Bone_ChinL
+    400010: Bone_ChinR
+    400012: Bone_Column1
+    400014: Bone_Column2
+    400016: Bone_Column3
+    400018: Bone_Column4
+    400020: Bone_FootL
+    400022: Bone_FootR
+    400024: Bone_ForeArmL
+    400026: Bone_ForeArmR
+    400028: Bone_HandL
+    400030: Bone_HandR
+    400032: Bone_Head
+    400034: Bone_HipL
+    400036: Bone_HipR
+    400038: Bone_LegL
+    400040: Bone_LegR
+    400042: Bone_Master
+    400044: Bone_Neck
+    400046: Bone_ScapulaL
+    400048: Bone_ScapulaR
+    400050: Bone_TopFootL
+    400052: Bone_TopFootR
+    400054: Bone_TopHandL
+    400056: Bone_TopHandR
+    400058: //RootNode
+    400060: NPC
+    4300000: NPC
+    7400000: Andando
+    9500000: //RootNode
+    13700000: NPC
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Andando
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 31
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone_Master
+        weight: 1
+      - path: Bone_Master/Bone_Column1
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_Column3
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_Column3/Bone_Column4
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_Column3/Bone_Column4/Bone_Neck
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_Column3/Bone_Column4/Bone_Neck/Bone_Head
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_Column3/Bone_ScapulaL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_Column3/Bone_ScapulaL/Bone_ArmL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_Column3/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_Column3/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_Column3/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_TopHandL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_Column3/Bone_ScapulaR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_Column3/Bone_ScapulaR/Bone_ArmR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_Column3/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_Column3/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_Column3/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_TopHandR
+        weight: 1
+      - path: Bone_Master/Bone_HipL
+        weight: 1
+      - path: Bone_Master/Bone_HipL/Bone_LegL
+        weight: 1
+      - path: Bone_Master/Bone_HipL/Bone_LegL/Bone_ChinL
+        weight: 1
+      - path: Bone_Master/Bone_HipL/Bone_LegL/Bone_ChinL/Bone_AnkleL
+        weight: 1
+      - path: Bone_Master/Bone_HipL/Bone_LegL/Bone_ChinL/Bone_AnkleL/Bone_FootL
+        weight: 1
+      - path: Bone_Master/Bone_HipL/Bone_LegL/Bone_ChinL/Bone_AnkleL/Bone_FootL/Bone_TopFootL
+        weight: 1
+      - path: Bone_Master/Bone_HipR
+        weight: 1
+      - path: Bone_Master/Bone_HipR/Bone_LegR
+        weight: 1
+      - path: Bone_Master/Bone_HipR/Bone_LegR/Bone_ChinR
+        weight: 1
+      - path: Bone_Master/Bone_HipR/Bone_LegR/Bone_ChinR/Bone_AnkleR
+        weight: 1
+      - path: Bone_Master/Bone_HipR/Bone_LegR/Bone_ChinR/Bone_AnkleR/Bone_FootR
+        weight: 1
+      - path: Bone_Master/Bone_HipR/Bone_LegR/Bone_ChinR/Bone_AnkleR/Bone_FootR/Bone_TopFootR
+        weight: 1
+      - path: NPC
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

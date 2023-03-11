@@ -1,0 +1,2691 @@
+fileFormatVersion: 2
+guid: ded7575cde27e4f4a9484c6b8292abf7
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: Bengala
+  - first:
+      1: 100002
+    second: Bone_AnkleL
+  - first:
+      1: 100004
+    second: Bone_AnkleR
+  - first:
+      1: 100006
+    second: Bone_ArmL
+  - first:
+      1: 100008
+    second: Bone_ArmR
+  - first:
+      1: 100010
+    second: Bone_Bengala
+  - first:
+      1: 100012
+    second: Bone_ChinL
+  - first:
+      1: 100014
+    second: Bone_ChinR
+  - first:
+      1: 100016
+    second: Bone_Column1
+  - first:
+      1: 100018
+    second: Bone_Column2
+  - first:
+      1: 100020
+    second: Bone_Column3
+  - first:
+      1: 100022
+    second: Bone_FingerForeFBaseL
+  - first:
+      1: 100024
+    second: Bone_FingerForeFBaseR
+  - first:
+      1: 100026
+    second: Bone_FingerForeHBaseL
+  - first:
+      1: 100028
+    second: Bone_FingerForeHBaseR
+  - first:
+      1: 100030
+    second: Bone_FingerForeMidL
+  - first:
+      1: 100032
+    second: Bone_FingerForeMidR
+  - first:
+      1: 100034
+    second: Bone_FingerForeTopL
+  - first:
+      1: 100036
+    second: Bone_FingerForeTopR
+  - first:
+      1: 100038
+    second: Bone_FingerMiddleFBaseL
+  - first:
+      1: 100040
+    second: Bone_FingerMiddleFBaseR
+  - first:
+      1: 100042
+    second: Bone_FingerMiddleHBaseL
+  - first:
+      1: 100044
+    second: Bone_FingerMiddleHBaseR
+  - first:
+      1: 100046
+    second: Bone_FingerMiddleMidL
+  - first:
+      1: 100048
+    second: Bone_FingerMiddleMidR
+  - first:
+      1: 100050
+    second: Bone_FingerMiddleTopL
+  - first:
+      1: 100052
+    second: Bone_FingerMiddleTopR
+  - first:
+      1: 100054
+    second: Bone_FingerPinkieFBaseL
+  - first:
+      1: 100056
+    second: Bone_FingerPinkieFBaseR
+  - first:
+      1: 100058
+    second: Bone_FingerPinkieHBaseL
+  - first:
+      1: 100060
+    second: Bone_FingerPinkieHBaseR
+  - first:
+      1: 100062
+    second: Bone_FingerPinkieMidL
+  - first:
+      1: 100064
+    second: Bone_FingerPinkieMidR
+  - first:
+      1: 100066
+    second: Bone_FingerPinkieTopL
+  - first:
+      1: 100068
+    second: Bone_FingerPinkieTopR
+  - first:
+      1: 100070
+    second: Bone_FingerRingFBaseL
+  - first:
+      1: 100072
+    second: Bone_FingerRingFBaseR
+  - first:
+      1: 100074
+    second: Bone_FingerRingHBaseL
+  - first:
+      1: 100076
+    second: Bone_FingerRingHBaseR
+  - first:
+      1: 100078
+    second: Bone_FingerRingMidL
+  - first:
+      1: 100080
+    second: Bone_FingerRingMidR
+  - first:
+      1: 100082
+    second: Bone_FingerRingTopL
+  - first:
+      1: 100084
+    second: Bone_FingerRingTopR
+  - first:
+      1: 100086
+    second: Bone_FingerThumbFBaseL
+  - first:
+      1: 100088
+    second: Bone_FingerThumbFBaseR
+  - first:
+      1: 100090
+    second: Bone_FingerThumbHBaseL
+  - first:
+      1: 100092
+    second: Bone_FingerThumbHBaseR
+  - first:
+      1: 100094
+    second: Bone_FingerThumbTopL
+  - first:
+      1: 100096
+    second: Bone_FingerThumbTopR
+  - first:
+      1: 100098
+    second: Bone_FootL
+  - first:
+      1: 100100
+    second: Bone_FootR
+  - first:
+      1: 100102
+    second: Bone_ForeArmL
+  - first:
+      1: 100104
+    second: Bone_ForeArmR
+  - first:
+      1: 100106
+    second: Bone_HandL
+  - first:
+      1: 100108
+    second: Bone_HandR
+  - first:
+      1: 100110
+    second: Bone_Head
+  - first:
+      1: 100112
+    second: Bone_HipL
+  - first:
+      1: 100114
+    second: Bone_HipR
+  - first:
+      1: 100116
+    second: Bone_LegL
+  - first:
+      1: 100118
+    second: Bone_LegR
+  - first:
+      1: 100120
+    second: Bone_Master
+  - first:
+      1: 100122
+    second: Bone_Neck1
+  - first:
+      1: 100124
+    second: Bone_Neck2
+  - first:
+      1: 100126
+    second: Bone_ScapulaL
+  - first:
+      1: 100128
+    second: Bone_ScapulaR
+  - first:
+      1: 100130
+    second: Cabeca
+  - first:
+      1: 100132
+    second: Calcas
+  - first:
+      1: 100134
+    second: Casaco
+  - first:
+      1: 100136
+    second: Maos
+  - first:
+      1: 100138
+    second: Sapato
+  - first:
+      1: 100140
+    second: Torso
+  - first:
+      1: 100142
+    second: //RootNode
+  - first:
+      4: 400000
+    second: Bengala
+  - first:
+      4: 400002
+    second: Bone_AnkleL
+  - first:
+      4: 400004
+    second: Bone_AnkleR
+  - first:
+      4: 400006
+    second: Bone_ArmL
+  - first:
+      4: 400008
+    second: Bone_ArmR
+  - first:
+      4: 400010
+    second: Bone_Bengala
+  - first:
+      4: 400012
+    second: Bone_ChinL
+  - first:
+      4: 400014
+    second: Bone_ChinR
+  - first:
+      4: 400016
+    second: Bone_Column1
+  - first:
+      4: 400018
+    second: Bone_Column2
+  - first:
+      4: 400020
+    second: Bone_Column3
+  - first:
+      4: 400022
+    second: Bone_FingerForeFBaseL
+  - first:
+      4: 400024
+    second: Bone_FingerForeFBaseR
+  - first:
+      4: 400026
+    second: Bone_FingerForeHBaseL
+  - first:
+      4: 400028
+    second: Bone_FingerForeHBaseR
+  - first:
+      4: 400030
+    second: Bone_FingerForeMidL
+  - first:
+      4: 400032
+    second: Bone_FingerForeMidR
+  - first:
+      4: 400034
+    second: Bone_FingerForeTopL
+  - first:
+      4: 400036
+    second: Bone_FingerForeTopR
+  - first:
+      4: 400038
+    second: Bone_FingerMiddleFBaseL
+  - first:
+      4: 400040
+    second: Bone_FingerMiddleFBaseR
+  - first:
+      4: 400042
+    second: Bone_FingerMiddleHBaseL
+  - first:
+      4: 400044
+    second: Bone_FingerMiddleHBaseR
+  - first:
+      4: 400046
+    second: Bone_FingerMiddleMidL
+  - first:
+      4: 400048
+    second: Bone_FingerMiddleMidR
+  - first:
+      4: 400050
+    second: Bone_FingerMiddleTopL
+  - first:
+      4: 400052
+    second: Bone_FingerMiddleTopR
+  - first:
+      4: 400054
+    second: Bone_FingerPinkieFBaseL
+  - first:
+      4: 400056
+    second: Bone_FingerPinkieFBaseR
+  - first:
+      4: 400058
+    second: Bone_FingerPinkieHBaseL
+  - first:
+      4: 400060
+    second: Bone_FingerPinkieHBaseR
+  - first:
+      4: 400062
+    second: Bone_FingerPinkieMidL
+  - first:
+      4: 400064
+    second: Bone_FingerPinkieMidR
+  - first:
+      4: 400066
+    second: Bone_FingerPinkieTopL
+  - first:
+      4: 400068
+    second: Bone_FingerPinkieTopR
+  - first:
+      4: 400070
+    second: Bone_FingerRingFBaseL
+  - first:
+      4: 400072
+    second: Bone_FingerRingFBaseR
+  - first:
+      4: 400074
+    second: Bone_FingerRingHBaseL
+  - first:
+      4: 400076
+    second: Bone_FingerRingHBaseR
+  - first:
+      4: 400078
+    second: Bone_FingerRingMidL
+  - first:
+      4: 400080
+    second: Bone_FingerRingMidR
+  - first:
+      4: 400082
+    second: Bone_FingerRingTopL
+  - first:
+      4: 400084
+    second: Bone_FingerRingTopR
+  - first:
+      4: 400086
+    second: Bone_FingerThumbFBaseL
+  - first:
+      4: 400088
+    second: Bone_FingerThumbFBaseR
+  - first:
+      4: 400090
+    second: Bone_FingerThumbHBaseL
+  - first:
+      4: 400092
+    second: Bone_FingerThumbHBaseR
+  - first:
+      4: 400094
+    second: Bone_FingerThumbTopL
+  - first:
+      4: 400096
+    second: Bone_FingerThumbTopR
+  - first:
+      4: 400098
+    second: Bone_FootL
+  - first:
+      4: 400100
+    second: Bone_FootR
+  - first:
+      4: 400102
+    second: Bone_ForeArmL
+  - first:
+      4: 400104
+    second: Bone_ForeArmR
+  - first:
+      4: 400106
+    second: Bone_HandL
+  - first:
+      4: 400108
+    second: Bone_HandR
+  - first:
+      4: 400110
+    second: Bone_Head
+  - first:
+      4: 400112
+    second: Bone_HipL
+  - first:
+      4: 400114
+    second: Bone_HipR
+  - first:
+      4: 400116
+    second: Bone_LegL
+  - first:
+      4: 400118
+    second: Bone_LegR
+  - first:
+      4: 400120
+    second: Bone_Master
+  - first:
+      4: 400122
+    second: Bone_Neck1
+  - first:
+      4: 400124
+    second: Bone_Neck2
+  - first:
+      4: 400126
+    second: Bone_ScapulaL
+  - first:
+      4: 400128
+    second: Bone_ScapulaR
+  - first:
+      4: 400130
+    second: Cabeca
+  - first:
+      4: 400132
+    second: Calcas
+  - first:
+      4: 400134
+    second: Casaco
+  - first:
+      4: 400136
+    second: Maos
+  - first:
+      4: 400138
+    second: Sapato
+  - first:
+      4: 400140
+    second: Torso
+  - first:
+      4: 400142
+    second: //RootNode
+  - first:
+      43: 4300000
+    second: Maos
+  - first:
+      43: 4300002
+    second: Sapato
+  - first:
+      43: 4300004
+    second: Cabeca
+  - first:
+      43: 4300006
+    second: Casaco
+  - first:
+      43: 4300008
+    second: Torso
+  - first:
+      43: 4300010
+    second: Bengala
+  - first:
+      43: 4300012
+    second: Calcas
+  - first:
+      74: 7400000
+    second: Parado
+  - first:
+      74: 7400002
+    second: Andando
+  - first:
+      74: 7400004
+    second: Esbarrando
+  - first:
+      74: 7400006
+    second: SendoAtropelado
+  - first:
+      74: 7400008
+    second: Morto
+  - first:
+      74: 7400010
+    second: TomandoChuteNaCanela
+  - first:
+      74: 7400012
+    second: OlhandoParaOLado
+  - first:
+      74: 7400014
+    second: Cabisbaixo
+  - first:
+      74: 7400016
+    second: SendoRoubado
+  - first:
+      74: 7400018
+    second: Morrendo
+  - first:
+      74: 7400020
+    second: Levantando
+  - first:
+      74: 7400022
+    second: OlhandoParaOOutroLado
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: Bengala
+  - first:
+      137: 13700002
+    second: Cabeca
+  - first:
+      137: 13700004
+    second: Calcas
+  - first:
+      137: 13700006
+    second: Casaco
+  - first:
+      137: 13700008
+    second: Maos
+  - first:
+      137: 13700010
+    second: Sapato
+  - first:
+      137: 13700012
+    second: Torso
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Parado
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 1
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bengala
+        weight: 1
+      - path: Bone_Bengala
+        weight: 1
+      - path: Bone_Master
+        weight: 1
+      - path: Bone_Master/Bone_Column1
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_Column3
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_Column3/Bone_Neck1
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_Column3/Bone_Neck1/Bone_Neck2
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_Column3/Bone_Neck1/Bone_Neck2/Bone_Head
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerForeHBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerForeHBaseL/Bone_FingerForeFBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerForeHBaseL/Bone_FingerForeFBaseL/Bone_FingerForeMidL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerForeHBaseL/Bone_FingerForeFBaseL/Bone_FingerForeMidL/Bone_FingerForeTopL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerMiddleHBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerMiddleHBaseL/Bone_FingerMiddleFBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerMiddleHBaseL/Bone_FingerMiddleFBaseL/Bone_FingerMiddleMidL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerMiddleHBaseL/Bone_FingerMiddleFBaseL/Bone_FingerMiddleMidL/Bone_FingerMiddleTopL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerPinkieHBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerPinkieHBaseL/Bone_FingerPinkieFBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerPinkieHBaseL/Bone_FingerPinkieFBaseL/Bone_FingerPinkieMidL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerPinkieHBaseL/Bone_FingerPinkieFBaseL/Bone_FingerPinkieMidL/Bone_FingerPinkieTopL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerRingHBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerRingHBaseL/Bone_FingerRingFBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerRingHBaseL/Bone_FingerRingFBaseL/Bone_FingerRingMidL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerRingHBaseL/Bone_FingerRingFBaseL/Bone_FingerRingMidL/Bone_FingerRingTopL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerThumbHBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerThumbHBaseL/Bone_FingerThumbFBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerThumbHBaseL/Bone_FingerThumbFBaseL/Bone_FingerThumbTopL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerForeHBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerForeHBaseR/Bone_FingerForeFBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerForeHBaseR/Bone_FingerForeFBaseR/Bone_FingerForeMidR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerForeHBaseR/Bone_FingerForeFBaseR/Bone_FingerForeMidR/Bone_FingerForeTopR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerMiddleHBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerMiddleHBaseR/Bone_FingerMiddleFBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerMiddleHBaseR/Bone_FingerMiddleFBaseR/Bone_FingerMiddleMidR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerMiddleHBaseR/Bone_FingerMiddleFBaseR/Bone_FingerMiddleMidR/Bone_FingerMiddleTopR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerPinkieHBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerPinkieHBaseR/Bone_FingerPinkieFBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerPinkieHBaseR/Bone_FingerPinkieFBaseR/Bone_FingerPinkieMidR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerPinkieHBaseR/Bone_FingerPinkieFBaseR/Bone_FingerPinkieMidR/Bone_FingerPinkieTopR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerRingHBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerRingHBaseR/Bone_FingerRingFBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerRingHBaseR/Bone_FingerRingFBaseR/Bone_FingerRingMidR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerRingHBaseR/Bone_FingerRingFBaseR/Bone_FingerRingMidR/Bone_FingerRingTopR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerThumbHBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerThumbHBaseR/Bone_FingerThumbFBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerThumbHBaseR/Bone_FingerThumbFBaseR/Bone_FingerThumbTopR
+        weight: 1
+      - path: Bone_Master/Bone_HipL
+        weight: 1
+      - path: Bone_Master/Bone_HipL/Bone_LegL
+        weight: 1
+      - path: Bone_Master/Bone_HipL/Bone_LegL/Bone_ChinL
+        weight: 1
+      - path: Bone_Master/Bone_HipL/Bone_LegL/Bone_ChinL/Bone_AnkleL
+        weight: 1
+      - path: Bone_Master/Bone_HipL/Bone_LegL/Bone_ChinL/Bone_AnkleL/Bone_FootL
+        weight: 1
+      - path: Bone_Master/Bone_HipR
+        weight: 1
+      - path: Bone_Master/Bone_HipR/Bone_LegR
+        weight: 1
+      - path: Bone_Master/Bone_HipR/Bone_LegR/Bone_ChinR
+        weight: 1
+      - path: Bone_Master/Bone_HipR/Bone_LegR/Bone_ChinR/Bone_AnkleR
+        weight: 1
+      - path: Bone_Master/Bone_HipR/Bone_LegR/Bone_ChinR/Bone_AnkleR/Bone_FootR
+        weight: 1
+      - path: Cabeca
+        weight: 1
+      - path: Calcas
+        weight: 1
+      - path: Casaco
+        weight: 1
+      - path: Maos
+        weight: 1
+      - path: Sapato
+        weight: 1
+      - path: Torso
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Andando
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 105
+      lastFrame: 145
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bengala
+        weight: 1
+      - path: Bone_Bengala
+        weight: 1
+      - path: Bone_Master
+        weight: 1
+      - path: Bone_Master/Bone_Column1
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_Column3
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_Column3/Bone_Neck1
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_Column3/Bone_Neck1/Bone_Neck2
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_Column3/Bone_Neck1/Bone_Neck2/Bone_Head
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerForeHBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerForeHBaseL/Bone_FingerForeFBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerForeHBaseL/Bone_FingerForeFBaseL/Bone_FingerForeMidL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerForeHBaseL/Bone_FingerForeFBaseL/Bone_FingerForeMidL/Bone_FingerForeTopL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerMiddleHBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerMiddleHBaseL/Bone_FingerMiddleFBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerMiddleHBaseL/Bone_FingerMiddleFBaseL/Bone_FingerMiddleMidL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerMiddleHBaseL/Bone_FingerMiddleFBaseL/Bone_FingerMiddleMidL/Bone_FingerMiddleTopL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerPinkieHBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerPinkieHBaseL/Bone_FingerPinkieFBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerPinkieHBaseL/Bone_FingerPinkieFBaseL/Bone_FingerPinkieMidL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerPinkieHBaseL/Bone_FingerPinkieFBaseL/Bone_FingerPinkieMidL/Bone_FingerPinkieTopL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerRingHBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerRingHBaseL/Bone_FingerRingFBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerRingHBaseL/Bone_FingerRingFBaseL/Bone_FingerRingMidL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerRingHBaseL/Bone_FingerRingFBaseL/Bone_FingerRingMidL/Bone_FingerRingTopL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerThumbHBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerThumbHBaseL/Bone_FingerThumbFBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerThumbHBaseL/Bone_FingerThumbFBaseL/Bone_FingerThumbTopL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerForeHBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerForeHBaseR/Bone_FingerForeFBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerForeHBaseR/Bone_FingerForeFBaseR/Bone_FingerForeMidR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerForeHBaseR/Bone_FingerForeFBaseR/Bone_FingerForeMidR/Bone_FingerForeTopR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerMiddleHBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerMiddleHBaseR/Bone_FingerMiddleFBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerMiddleHBaseR/Bone_FingerMiddleFBaseR/Bone_FingerMiddleMidR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerMiddleHBaseR/Bone_FingerMiddleFBaseR/Bone_FingerMiddleMidR/Bone_FingerMiddleTopR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerPinkieHBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerPinkieHBaseR/Bone_FingerPinkieFBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerPinkieHBaseR/Bone_FingerPinkieFBaseR/Bone_FingerPinkieMidR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerPinkieHBaseR/Bone_FingerPinkieFBaseR/Bone_FingerPinkieMidR/Bone_FingerPinkieTopR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerRingHBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerRingHBaseR/Bone_FingerRingFBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerRingHBaseR/Bone_FingerRingFBaseR/Bone_FingerRingMidR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerRingHBaseR/Bone_FingerRingFBaseR/Bone_FingerRingMidR/Bone_FingerRingTopR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerThumbHBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerThumbHBaseR/Bone_FingerThumbFBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerThumbHBaseR/Bone_FingerThumbFBaseR/Bone_FingerThumbTopR
+        weight: 1
+      - path: Bone_Master/Bone_HipL
+        weight: 1
+      - path: Bone_Master/Bone_HipL/Bone_LegL
+        weight: 1
+      - path: Bone_Master/Bone_HipL/Bone_LegL/Bone_ChinL
+        weight: 1
+      - path: Bone_Master/Bone_HipL/Bone_LegL/Bone_ChinL/Bone_AnkleL
+        weight: 1
+      - path: Bone_Master/Bone_HipL/Bone_LegL/Bone_ChinL/Bone_AnkleL/Bone_FootL
+        weight: 1
+      - path: Bone_Master/Bone_HipR
+        weight: 1
+      - path: Bone_Master/Bone_HipR/Bone_LegR
+        weight: 1
+      - path: Bone_Master/Bone_HipR/Bone_LegR/Bone_ChinR
+        weight: 1
+      - path: Bone_Master/Bone_HipR/Bone_LegR/Bone_ChinR/Bone_AnkleR
+        weight: 1
+      - path: Bone_Master/Bone_HipR/Bone_LegR/Bone_ChinR/Bone_AnkleR/Bone_FootR
+        weight: 1
+      - path: Cabeca
+        weight: 1
+      - path: Calcas
+        weight: 1
+      - path: Casaco
+        weight: 1
+      - path: Maos
+        weight: 1
+      - path: Sapato
+        weight: 1
+      - path: Torso
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Esbarrando
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 146
+      lastFrame: 190
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bengala
+        weight: 1
+      - path: Bone_Bengala
+        weight: 1
+      - path: Bone_Master
+        weight: 1
+      - path: Bone_Master/Bone_Column1
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_Column3
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_Column3/Bone_Neck1
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_Column3/Bone_Neck1/Bone_Neck2
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_Column3/Bone_Neck1/Bone_Neck2/Bone_Head
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerForeHBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerForeHBaseL/Bone_FingerForeFBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerForeHBaseL/Bone_FingerForeFBaseL/Bone_FingerForeMidL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerForeHBaseL/Bone_FingerForeFBaseL/Bone_FingerForeMidL/Bone_FingerForeTopL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerMiddleHBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerMiddleHBaseL/Bone_FingerMiddleFBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerMiddleHBaseL/Bone_FingerMiddleFBaseL/Bone_FingerMiddleMidL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerMiddleHBaseL/Bone_FingerMiddleFBaseL/Bone_FingerMiddleMidL/Bone_FingerMiddleTopL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerPinkieHBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerPinkieHBaseL/Bone_FingerPinkieFBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerPinkieHBaseL/Bone_FingerPinkieFBaseL/Bone_FingerPinkieMidL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerPinkieHBaseL/Bone_FingerPinkieFBaseL/Bone_FingerPinkieMidL/Bone_FingerPinkieTopL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerRingHBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerRingHBaseL/Bone_FingerRingFBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerRingHBaseL/Bone_FingerRingFBaseL/Bone_FingerRingMidL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerRingHBaseL/Bone_FingerRingFBaseL/Bone_FingerRingMidL/Bone_FingerRingTopL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerThumbHBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerThumbHBaseL/Bone_FingerThumbFBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerThumbHBaseL/Bone_FingerThumbFBaseL/Bone_FingerThumbTopL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerForeHBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerForeHBaseR/Bone_FingerForeFBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerForeHBaseR/Bone_FingerForeFBaseR/Bone_FingerForeMidR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerForeHBaseR/Bone_FingerForeFBaseR/Bone_FingerForeMidR/Bone_FingerForeTopR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerMiddleHBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerMiddleHBaseR/Bone_FingerMiddleFBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerMiddleHBaseR/Bone_FingerMiddleFBaseR/Bone_FingerMiddleMidR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerMiddleHBaseR/Bone_FingerMiddleFBaseR/Bone_FingerMiddleMidR/Bone_FingerMiddleTopR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerPinkieHBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerPinkieHBaseR/Bone_FingerPinkieFBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerPinkieHBaseR/Bone_FingerPinkieFBaseR/Bone_FingerPinkieMidR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerPinkieHBaseR/Bone_FingerPinkieFBaseR/Bone_FingerPinkieMidR/Bone_FingerPinkieTopR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerRingHBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerRingHBaseR/Bone_FingerRingFBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerRingHBaseR/Bone_FingerRingFBaseR/Bone_FingerRingMidR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerRingHBaseR/Bone_FingerRingFBaseR/Bone_FingerRingMidR/Bone_FingerRingTopR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerThumbHBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerThumbHBaseR/Bone_FingerThumbFBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerThumbHBaseR/Bone_FingerThumbFBaseR/Bone_FingerThumbTopR
+        weight: 1
+      - path: Bone_Master/Bone_HipL
+        weight: 1
+      - path: Bone_Master/Bone_HipL/Bone_LegL
+        weight: 1
+      - path: Bone_Master/Bone_HipL/Bone_LegL/Bone_ChinL
+        weight: 1
+      - path: Bone_Master/Bone_HipL/Bone_LegL/Bone_ChinL/Bone_AnkleL
+        weight: 1
+      - path: Bone_Master/Bone_HipL/Bone_LegL/Bone_ChinL/Bone_AnkleL/Bone_FootL
+        weight: 1
+      - path: Bone_Master/Bone_HipR
+        weight: 1
+      - path: Bone_Master/Bone_HipR/Bone_LegR
+        weight: 1
+      - path: Bone_Master/Bone_HipR/Bone_LegR/Bone_ChinR
+        weight: 1
+      - path: Bone_Master/Bone_HipR/Bone_LegR/Bone_ChinR/Bone_AnkleR
+        weight: 1
+      - path: Bone_Master/Bone_HipR/Bone_LegR/Bone_ChinR/Bone_AnkleR/Bone_FootR
+        weight: 1
+      - path: Cabeca
+        weight: 1
+      - path: Calcas
+        weight: 1
+      - path: Casaco
+        weight: 1
+      - path: Maos
+        weight: 1
+      - path: Sapato
+        weight: 1
+      - path: Torso
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SendoAtropelado
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 191
+      lastFrame: 213
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bengala
+        weight: 1
+      - path: Bone_Bengala
+        weight: 1
+      - path: Bone_Master
+        weight: 1
+      - path: Bone_Master/Bone_Column1
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_Column3
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_Column3/Bone_Neck1
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_Column3/Bone_Neck1/Bone_Neck2
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_Column3/Bone_Neck1/Bone_Neck2/Bone_Head
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerForeHBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerForeHBaseL/Bone_FingerForeFBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerForeHBaseL/Bone_FingerForeFBaseL/Bone_FingerForeMidL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerForeHBaseL/Bone_FingerForeFBaseL/Bone_FingerForeMidL/Bone_FingerForeTopL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerMiddleHBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerMiddleHBaseL/Bone_FingerMiddleFBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerMiddleHBaseL/Bone_FingerMiddleFBaseL/Bone_FingerMiddleMidL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerMiddleHBaseL/Bone_FingerMiddleFBaseL/Bone_FingerMiddleMidL/Bone_FingerMiddleTopL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerPinkieHBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerPinkieHBaseL/Bone_FingerPinkieFBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerPinkieHBaseL/Bone_FingerPinkieFBaseL/Bone_FingerPinkieMidL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerPinkieHBaseL/Bone_FingerPinkieFBaseL/Bone_FingerPinkieMidL/Bone_FingerPinkieTopL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerRingHBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerRingHBaseL/Bone_FingerRingFBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerRingHBaseL/Bone_FingerRingFBaseL/Bone_FingerRingMidL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerRingHBaseL/Bone_FingerRingFBaseL/Bone_FingerRingMidL/Bone_FingerRingTopL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerThumbHBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerThumbHBaseL/Bone_FingerThumbFBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerThumbHBaseL/Bone_FingerThumbFBaseL/Bone_FingerThumbTopL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerForeHBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerForeHBaseR/Bone_FingerForeFBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerForeHBaseR/Bone_FingerForeFBaseR/Bone_FingerForeMidR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerForeHBaseR/Bone_FingerForeFBaseR/Bone_FingerForeMidR/Bone_FingerForeTopR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerMiddleHBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerMiddleHBaseR/Bone_FingerMiddleFBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerMiddleHBaseR/Bone_FingerMiddleFBaseR/Bone_FingerMiddleMidR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerMiddleHBaseR/Bone_FingerMiddleFBaseR/Bone_FingerMiddleMidR/Bone_FingerMiddleTopR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerPinkieHBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerPinkieHBaseR/Bone_FingerPinkieFBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerPinkieHBaseR/Bone_FingerPinkieFBaseR/Bone_FingerPinkieMidR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerPinkieHBaseR/Bone_FingerPinkieFBaseR/Bone_FingerPinkieMidR/Bone_FingerPinkieTopR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerRingHBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerRingHBaseR/Bone_FingerRingFBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerRingHBaseR/Bone_FingerRingFBaseR/Bone_FingerRingMidR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerRingHBaseR/Bone_FingerRingFBaseR/Bone_FingerRingMidR/Bone_FingerRingTopR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerThumbHBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerThumbHBaseR/Bone_FingerThumbFBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerThumbHBaseR/Bone_FingerThumbFBaseR/Bone_FingerThumbTopR
+        weight: 1
+      - path: Bone_Master/Bone_HipL
+        weight: 1
+      - path: Bone_Master/Bone_HipL/Bone_LegL
+        weight: 1
+      - path: Bone_Master/Bone_HipL/Bone_LegL/Bone_ChinL
+        weight: 1
+      - path: Bone_Master/Bone_HipL/Bone_LegL/Bone_ChinL/Bone_AnkleL
+        weight: 1
+      - path: Bone_Master/Bone_HipL/Bone_LegL/Bone_ChinL/Bone_AnkleL/Bone_FootL
+        weight: 1
+      - path: Bone_Master/Bone_HipR
+        weight: 1
+      - path: Bone_Master/Bone_HipR/Bone_LegR
+        weight: 1
+      - path: Bone_Master/Bone_HipR/Bone_LegR/Bone_ChinR
+        weight: 1
+      - path: Bone_Master/Bone_HipR/Bone_LegR/Bone_ChinR/Bone_AnkleR
+        weight: 1
+      - path: Bone_Master/Bone_HipR/Bone_LegR/Bone_ChinR/Bone_AnkleR/Bone_FootR
+        weight: 1
+      - path: Cabeca
+        weight: 1
+      - path: Calcas
+        weight: 1
+      - path: Casaco
+        weight: 1
+      - path: Maos
+        weight: 1
+      - path: Sapato
+        weight: 1
+      - path: Torso
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Morto
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 214
+      lastFrame: 214.1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bengala
+        weight: 1
+      - path: Bone_Bengala
+        weight: 1
+      - path: Bone_Master
+        weight: 1
+      - path: Bone_Master/Bone_Column1
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_Column3
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_Column3/Bone_Neck1
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_Column3/Bone_Neck1/Bone_Neck2
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_Column3/Bone_Neck1/Bone_Neck2/Bone_Head
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerForeHBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerForeHBaseL/Bone_FingerForeFBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerForeHBaseL/Bone_FingerForeFBaseL/Bone_FingerForeMidL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerForeHBaseL/Bone_FingerForeFBaseL/Bone_FingerForeMidL/Bone_FingerForeTopL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerMiddleHBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerMiddleHBaseL/Bone_FingerMiddleFBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerMiddleHBaseL/Bone_FingerMiddleFBaseL/Bone_FingerMiddleMidL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerMiddleHBaseL/Bone_FingerMiddleFBaseL/Bone_FingerMiddleMidL/Bone_FingerMiddleTopL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerPinkieHBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerPinkieHBaseL/Bone_FingerPinkieFBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerPinkieHBaseL/Bone_FingerPinkieFBaseL/Bone_FingerPinkieMidL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerPinkieHBaseL/Bone_FingerPinkieFBaseL/Bone_FingerPinkieMidL/Bone_FingerPinkieTopL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerRingHBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerRingHBaseL/Bone_FingerRingFBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerRingHBaseL/Bone_FingerRingFBaseL/Bone_FingerRingMidL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerRingHBaseL/Bone_FingerRingFBaseL/Bone_FingerRingMidL/Bone_FingerRingTopL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerThumbHBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerThumbHBaseL/Bone_FingerThumbFBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerThumbHBaseL/Bone_FingerThumbFBaseL/Bone_FingerThumbTopL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerForeHBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerForeHBaseR/Bone_FingerForeFBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerForeHBaseR/Bone_FingerForeFBaseR/Bone_FingerForeMidR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerForeHBaseR/Bone_FingerForeFBaseR/Bone_FingerForeMidR/Bone_FingerForeTopR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerMiddleHBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerMiddleHBaseR/Bone_FingerMiddleFBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerMiddleHBaseR/Bone_FingerMiddleFBaseR/Bone_FingerMiddleMidR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerMiddleHBaseR/Bone_FingerMiddleFBaseR/Bone_FingerMiddleMidR/Bone_FingerMiddleTopR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerPinkieHBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerPinkieHBaseR/Bone_FingerPinkieFBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerPinkieHBaseR/Bone_FingerPinkieFBaseR/Bone_FingerPinkieMidR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerPinkieHBaseR/Bone_FingerPinkieFBaseR/Bone_FingerPinkieMidR/Bone_FingerPinkieTopR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerRingHBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerRingHBaseR/Bone_FingerRingFBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerRingHBaseR/Bone_FingerRingFBaseR/Bone_FingerRingMidR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerRingHBaseR/Bone_FingerRingFBaseR/Bone_FingerRingMidR/Bone_FingerRingTopR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerThumbHBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerThumbHBaseR/Bone_FingerThumbFBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerThumbHBaseR/Bone_FingerThumbFBaseR/Bone_FingerThumbTopR
+        weight: 1
+      - path: Bone_Master/Bone_HipL
+        weight: 1
+      - path: Bone_Master/Bone_HipL/Bone_LegL
+        weight: 1
+      - path: Bone_Master/Bone_HipL/Bone_LegL/Bone_ChinL
+        weight: 1
+      - path: Bone_Master/Bone_HipL/Bone_LegL/Bone_ChinL/Bone_AnkleL
+        weight: 1
+      - path: Bone_Master/Bone_HipL/Bone_LegL/Bone_ChinL/Bone_AnkleL/Bone_FootL
+        weight: 1
+      - path: Bone_Master/Bone_HipR
+        weight: 1
+      - path: Bone_Master/Bone_HipR/Bone_LegR
+        weight: 1
+      - path: Bone_Master/Bone_HipR/Bone_LegR/Bone_ChinR
+        weight: 1
+      - path: Bone_Master/Bone_HipR/Bone_LegR/Bone_ChinR/Bone_AnkleR
+        weight: 1
+      - path: Bone_Master/Bone_HipR/Bone_LegR/Bone_ChinR/Bone_AnkleR/Bone_FootR
+        weight: 1
+      - path: Cabeca
+        weight: 1
+      - path: Calcas
+        weight: 1
+      - path: Casaco
+        weight: 1
+      - path: Maos
+        weight: 1
+      - path: Sapato
+        weight: 1
+      - path: Torso
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: TomandoChuteNaCanela
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 215
+      lastFrame: 310
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bengala
+        weight: 1
+      - path: Bone_Bengala
+        weight: 1
+      - path: Bone_Master
+        weight: 1
+      - path: Bone_Master/Bone_Column1
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_Column3
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_Column3/Bone_Neck1
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_Column3/Bone_Neck1/Bone_Neck2
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_Column3/Bone_Neck1/Bone_Neck2/Bone_Head
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerForeHBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerForeHBaseL/Bone_FingerForeFBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerForeHBaseL/Bone_FingerForeFBaseL/Bone_FingerForeMidL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerForeHBaseL/Bone_FingerForeFBaseL/Bone_FingerForeMidL/Bone_FingerForeTopL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerMiddleHBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerMiddleHBaseL/Bone_FingerMiddleFBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerMiddleHBaseL/Bone_FingerMiddleFBaseL/Bone_FingerMiddleMidL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerMiddleHBaseL/Bone_FingerMiddleFBaseL/Bone_FingerMiddleMidL/Bone_FingerMiddleTopL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerPinkieHBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerPinkieHBaseL/Bone_FingerPinkieFBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerPinkieHBaseL/Bone_FingerPinkieFBaseL/Bone_FingerPinkieMidL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerPinkieHBaseL/Bone_FingerPinkieFBaseL/Bone_FingerPinkieMidL/Bone_FingerPinkieTopL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerRingHBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerRingHBaseL/Bone_FingerRingFBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerRingHBaseL/Bone_FingerRingFBaseL/Bone_FingerRingMidL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerRingHBaseL/Bone_FingerRingFBaseL/Bone_FingerRingMidL/Bone_FingerRingTopL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerThumbHBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerThumbHBaseL/Bone_FingerThumbFBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerThumbHBaseL/Bone_FingerThumbFBaseL/Bone_FingerThumbTopL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerForeHBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerForeHBaseR/Bone_FingerForeFBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerForeHBaseR/Bone_FingerForeFBaseR/Bone_FingerForeMidR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerForeHBaseR/Bone_FingerForeFBaseR/Bone_FingerForeMidR/Bone_FingerForeTopR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerMiddleHBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerMiddleHBaseR/Bone_FingerMiddleFBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerMiddleHBaseR/Bone_FingerMiddleFBaseR/Bone_FingerMiddleMidR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerMiddleHBaseR/Bone_FingerMiddleFBaseR/Bone_FingerMiddleMidR/Bone_FingerMiddleTopR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerPinkieHBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerPinkieHBaseR/Bone_FingerPinkieFBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerPinkieHBaseR/Bone_FingerPinkieFBaseR/Bone_FingerPinkieMidR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerPinkieHBaseR/Bone_FingerPinkieFBaseR/Bone_FingerPinkieMidR/Bone_FingerPinkieTopR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerRingHBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerRingHBaseR/Bone_FingerRingFBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerRingHBaseR/Bone_FingerRingFBaseR/Bone_FingerRingMidR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerRingHBaseR/Bone_FingerRingFBaseR/Bone_FingerRingMidR/Bone_FingerRingTopR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerThumbHBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerThumbHBaseR/Bone_FingerThumbFBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerThumbHBaseR/Bone_FingerThumbFBaseR/Bone_FingerThumbTopR
+        weight: 1
+      - path: Bone_Master/Bone_HipL
+        weight: 1
+      - path: Bone_Master/Bone_HipL/Bone_LegL
+        weight: 1
+      - path: Bone_Master/Bone_HipL/Bone_LegL/Bone_ChinL
+        weight: 1
+      - path: Bone_Master/Bone_HipL/Bone_LegL/Bone_ChinL/Bone_AnkleL
+        weight: 1
+      - path: Bone_Master/Bone_HipL/Bone_LegL/Bone_ChinL/Bone_AnkleL/Bone_FootL
+        weight: 1
+      - path: Bone_Master/Bone_HipR
+        weight: 1
+      - path: Bone_Master/Bone_HipR/Bone_LegR
+        weight: 1
+      - path: Bone_Master/Bone_HipR/Bone_LegR/Bone_ChinR
+        weight: 1
+      - path: Bone_Master/Bone_HipR/Bone_LegR/Bone_ChinR/Bone_AnkleR
+        weight: 1
+      - path: Bone_Master/Bone_HipR/Bone_LegR/Bone_ChinR/Bone_AnkleR/Bone_FootR
+        weight: 1
+      - path: Cabeca
+        weight: 1
+      - path: Calcas
+        weight: 1
+      - path: Casaco
+        weight: 1
+      - path: Maos
+        weight: 1
+      - path: Sapato
+        weight: 1
+      - path: Torso
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: OlhandoParaOLado
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 311
+      lastFrame: 340
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bengala
+        weight: 1
+      - path: Bone_Bengala
+        weight: 1
+      - path: Bone_Master
+        weight: 1
+      - path: Bone_Master/Bone_Column1
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_Column3
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_Column3/Bone_Neck1
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_Column3/Bone_Neck1/Bone_Neck2
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_Column3/Bone_Neck1/Bone_Neck2/Bone_Head
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerForeHBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerForeHBaseL/Bone_FingerForeFBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerForeHBaseL/Bone_FingerForeFBaseL/Bone_FingerForeMidL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerForeHBaseL/Bone_FingerForeFBaseL/Bone_FingerForeMidL/Bone_FingerForeTopL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerMiddleHBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerMiddleHBaseL/Bone_FingerMiddleFBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerMiddleHBaseL/Bone_FingerMiddleFBaseL/Bone_FingerMiddleMidL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerMiddleHBaseL/Bone_FingerMiddleFBaseL/Bone_FingerMiddleMidL/Bone_FingerMiddleTopL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerPinkieHBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerPinkieHBaseL/Bone_FingerPinkieFBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerPinkieHBaseL/Bone_FingerPinkieFBaseL/Bone_FingerPinkieMidL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerPinkieHBaseL/Bone_FingerPinkieFBaseL/Bone_FingerPinkieMidL/Bone_FingerPinkieTopL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerRingHBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerRingHBaseL/Bone_FingerRingFBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerRingHBaseL/Bone_FingerRingFBaseL/Bone_FingerRingMidL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerRingHBaseL/Bone_FingerRingFBaseL/Bone_FingerRingMidL/Bone_FingerRingTopL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerThumbHBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerThumbHBaseL/Bone_FingerThumbFBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerThumbHBaseL/Bone_FingerThumbFBaseL/Bone_FingerThumbTopL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerForeHBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerForeHBaseR/Bone_FingerForeFBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerForeHBaseR/Bone_FingerForeFBaseR/Bone_FingerForeMidR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerForeHBaseR/Bone_FingerForeFBaseR/Bone_FingerForeMidR/Bone_FingerForeTopR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerMiddleHBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerMiddleHBaseR/Bone_FingerMiddleFBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerMiddleHBaseR/Bone_FingerMiddleFBaseR/Bone_FingerMiddleMidR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerMiddleHBaseR/Bone_FingerMiddleFBaseR/Bone_FingerMiddleMidR/Bone_FingerMiddleTopR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerPinkieHBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerPinkieHBaseR/Bone_FingerPinkieFBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerPinkieHBaseR/Bone_FingerPinkieFBaseR/Bone_FingerPinkieMidR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerPinkieHBaseR/Bone_FingerPinkieFBaseR/Bone_FingerPinkieMidR/Bone_FingerPinkieTopR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerRingHBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerRingHBaseR/Bone_FingerRingFBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerRingHBaseR/Bone_FingerRingFBaseR/Bone_FingerRingMidR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerRingHBaseR/Bone_FingerRingFBaseR/Bone_FingerRingMidR/Bone_FingerRingTopR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerThumbHBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerThumbHBaseR/Bone_FingerThumbFBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerThumbHBaseR/Bone_FingerThumbFBaseR/Bone_FingerThumbTopR
+        weight: 1
+      - path: Bone_Master/Bone_HipL
+        weight: 1
+      - path: Bone_Master/Bone_HipL/Bone_LegL
+        weight: 1
+      - path: Bone_Master/Bone_HipL/Bone_LegL/Bone_ChinL
+        weight: 1
+      - path: Bone_Master/Bone_HipL/Bone_LegL/Bone_ChinL/Bone_AnkleL
+        weight: 1
+      - path: Bone_Master/Bone_HipL/Bone_LegL/Bone_ChinL/Bone_AnkleL/Bone_FootL
+        weight: 1
+      - path: Bone_Master/Bone_HipR
+        weight: 1
+      - path: Bone_Master/Bone_HipR/Bone_LegR
+        weight: 1
+      - path: Bone_Master/Bone_HipR/Bone_LegR/Bone_ChinR
+        weight: 1
+      - path: Bone_Master/Bone_HipR/Bone_LegR/Bone_ChinR/Bone_AnkleR
+        weight: 1
+      - path: Bone_Master/Bone_HipR/Bone_LegR/Bone_ChinR/Bone_AnkleR/Bone_FootR
+        weight: 1
+      - path: Cabeca
+        weight: 1
+      - path: Calcas
+        weight: 1
+      - path: Casaco
+        weight: 1
+      - path: Maos
+        weight: 1
+      - path: Sapato
+        weight: 1
+      - path: Torso
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Cabisbaixo
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 341
+      lastFrame: 440
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bengala
+        weight: 1
+      - path: Bone_Bengala
+        weight: 1
+      - path: Bone_Master
+        weight: 1
+      - path: Bone_Master/Bone_Column1
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_Column3
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_Column3/Bone_Neck1
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_Column3/Bone_Neck1/Bone_Neck2
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_Column3/Bone_Neck1/Bone_Neck2/Bone_Head
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerForeHBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerForeHBaseL/Bone_FingerForeFBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerForeHBaseL/Bone_FingerForeFBaseL/Bone_FingerForeMidL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerForeHBaseL/Bone_FingerForeFBaseL/Bone_FingerForeMidL/Bone_FingerForeTopL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerMiddleHBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerMiddleHBaseL/Bone_FingerMiddleFBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerMiddleHBaseL/Bone_FingerMiddleFBaseL/Bone_FingerMiddleMidL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerMiddleHBaseL/Bone_FingerMiddleFBaseL/Bone_FingerMiddleMidL/Bone_FingerMiddleTopL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerPinkieHBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerPinkieHBaseL/Bone_FingerPinkieFBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerPinkieHBaseL/Bone_FingerPinkieFBaseL/Bone_FingerPinkieMidL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerPinkieHBaseL/Bone_FingerPinkieFBaseL/Bone_FingerPinkieMidL/Bone_FingerPinkieTopL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerRingHBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerRingHBaseL/Bone_FingerRingFBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerRingHBaseL/Bone_FingerRingFBaseL/Bone_FingerRingMidL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerRingHBaseL/Bone_FingerRingFBaseL/Bone_FingerRingMidL/Bone_FingerRingTopL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerThumbHBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerThumbHBaseL/Bone_FingerThumbFBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerThumbHBaseL/Bone_FingerThumbFBaseL/Bone_FingerThumbTopL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerForeHBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerForeHBaseR/Bone_FingerForeFBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerForeHBaseR/Bone_FingerForeFBaseR/Bone_FingerForeMidR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerForeHBaseR/Bone_FingerForeFBaseR/Bone_FingerForeMidR/Bone_FingerForeTopR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerMiddleHBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerMiddleHBaseR/Bone_FingerMiddleFBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerMiddleHBaseR/Bone_FingerMiddleFBaseR/Bone_FingerMiddleMidR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerMiddleHBaseR/Bone_FingerMiddleFBaseR/Bone_FingerMiddleMidR/Bone_FingerMiddleTopR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerPinkieHBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerPinkieHBaseR/Bone_FingerPinkieFBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerPinkieHBaseR/Bone_FingerPinkieFBaseR/Bone_FingerPinkieMidR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerPinkieHBaseR/Bone_FingerPinkieFBaseR/Bone_FingerPinkieMidR/Bone_FingerPinkieTopR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerRingHBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerRingHBaseR/Bone_FingerRingFBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerRingHBaseR/Bone_FingerRingFBaseR/Bone_FingerRingMidR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerRingHBaseR/Bone_FingerRingFBaseR/Bone_FingerRingMidR/Bone_FingerRingTopR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerThumbHBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerThumbHBaseR/Bone_FingerThumbFBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerThumbHBaseR/Bone_FingerThumbFBaseR/Bone_FingerThumbTopR
+        weight: 1
+      - path: Bone_Master/Bone_HipL
+        weight: 1
+      - path: Bone_Master/Bone_HipL/Bone_LegL
+        weight: 1
+      - path: Bone_Master/Bone_HipL/Bone_LegL/Bone_ChinL
+        weight: 1
+      - path: Bone_Master/Bone_HipL/Bone_LegL/Bone_ChinL/Bone_AnkleL
+        weight: 1
+      - path: Bone_Master/Bone_HipL/Bone_LegL/Bone_ChinL/Bone_AnkleL/Bone_FootL
+        weight: 1
+      - path: Bone_Master/Bone_HipR
+        weight: 1
+      - path: Bone_Master/Bone_HipR/Bone_LegR
+        weight: 1
+      - path: Bone_Master/Bone_HipR/Bone_LegR/Bone_ChinR
+        weight: 1
+      - path: Bone_Master/Bone_HipR/Bone_LegR/Bone_ChinR/Bone_AnkleR
+        weight: 1
+      - path: Bone_Master/Bone_HipR/Bone_LegR/Bone_ChinR/Bone_AnkleR/Bone_FootR
+        weight: 1
+      - path: Cabeca
+        weight: 1
+      - path: Calcas
+        weight: 1
+      - path: Casaco
+        weight: 1
+      - path: Maos
+        weight: 1
+      - path: Sapato
+        weight: 1
+      - path: Torso
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SendoRoubado
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 441
+      lastFrame: 540
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bengala
+        weight: 1
+      - path: Bone_Bengala
+        weight: 1
+      - path: Bone_Master
+        weight: 1
+      - path: Bone_Master/Bone_Column1
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_Column3
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_Column3/Bone_Neck1
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_Column3/Bone_Neck1/Bone_Neck2
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_Column3/Bone_Neck1/Bone_Neck2/Bone_Head
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerForeHBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerForeHBaseL/Bone_FingerForeFBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerForeHBaseL/Bone_FingerForeFBaseL/Bone_FingerForeMidL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerForeHBaseL/Bone_FingerForeFBaseL/Bone_FingerForeMidL/Bone_FingerForeTopL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerMiddleHBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerMiddleHBaseL/Bone_FingerMiddleFBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerMiddleHBaseL/Bone_FingerMiddleFBaseL/Bone_FingerMiddleMidL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerMiddleHBaseL/Bone_FingerMiddleFBaseL/Bone_FingerMiddleMidL/Bone_FingerMiddleTopL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerPinkieHBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerPinkieHBaseL/Bone_FingerPinkieFBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerPinkieHBaseL/Bone_FingerPinkieFBaseL/Bone_FingerPinkieMidL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerPinkieHBaseL/Bone_FingerPinkieFBaseL/Bone_FingerPinkieMidL/Bone_FingerPinkieTopL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerRingHBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerRingHBaseL/Bone_FingerRingFBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerRingHBaseL/Bone_FingerRingFBaseL/Bone_FingerRingMidL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerRingHBaseL/Bone_FingerRingFBaseL/Bone_FingerRingMidL/Bone_FingerRingTopL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerThumbHBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerThumbHBaseL/Bone_FingerThumbFBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerThumbHBaseL/Bone_FingerThumbFBaseL/Bone_FingerThumbTopL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerForeHBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerForeHBaseR/Bone_FingerForeFBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerForeHBaseR/Bone_FingerForeFBaseR/Bone_FingerForeMidR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerForeHBaseR/Bone_FingerForeFBaseR/Bone_FingerForeMidR/Bone_FingerForeTopR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerMiddleHBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerMiddleHBaseR/Bone_FingerMiddleFBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerMiddleHBaseR/Bone_FingerMiddleFBaseR/Bone_FingerMiddleMidR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerMiddleHBaseR/Bone_FingerMiddleFBaseR/Bone_FingerMiddleMidR/Bone_FingerMiddleTopR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerPinkieHBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerPinkieHBaseR/Bone_FingerPinkieFBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerPinkieHBaseR/Bone_FingerPinkieFBaseR/Bone_FingerPinkieMidR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerPinkieHBaseR/Bone_FingerPinkieFBaseR/Bone_FingerPinkieMidR/Bone_FingerPinkieTopR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerRingHBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerRingHBaseR/Bone_FingerRingFBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerRingHBaseR/Bone_FingerRingFBaseR/Bone_FingerRingMidR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerRingHBaseR/Bone_FingerRingFBaseR/Bone_FingerRingMidR/Bone_FingerRingTopR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerThumbHBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerThumbHBaseR/Bone_FingerThumbFBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerThumbHBaseR/Bone_FingerThumbFBaseR/Bone_FingerThumbTopR
+        weight: 1
+      - path: Bone_Master/Bone_HipL
+        weight: 1
+      - path: Bone_Master/Bone_HipL/Bone_LegL
+        weight: 1
+      - path: Bone_Master/Bone_HipL/Bone_LegL/Bone_ChinL
+        weight: 1
+      - path: Bone_Master/Bone_HipL/Bone_LegL/Bone_ChinL/Bone_AnkleL
+        weight: 1
+      - path: Bone_Master/Bone_HipL/Bone_LegL/Bone_ChinL/Bone_AnkleL/Bone_FootL
+        weight: 1
+      - path: Bone_Master/Bone_HipR
+        weight: 1
+      - path: Bone_Master/Bone_HipR/Bone_LegR
+        weight: 1
+      - path: Bone_Master/Bone_HipR/Bone_LegR/Bone_ChinR
+        weight: 1
+      - path: Bone_Master/Bone_HipR/Bone_LegR/Bone_ChinR/Bone_AnkleR
+        weight: 1
+      - path: Bone_Master/Bone_HipR/Bone_LegR/Bone_ChinR/Bone_AnkleR/Bone_FootR
+        weight: 1
+      - path: Cabeca
+        weight: 1
+      - path: Calcas
+        weight: 1
+      - path: Casaco
+        weight: 1
+      - path: Maos
+        weight: 1
+      - path: Sapato
+        weight: 1
+      - path: Torso
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Morrendo
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 541
+      lastFrame: 560
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bengala
+        weight: 1
+      - path: Bone_Bengala
+        weight: 1
+      - path: Bone_Master
+        weight: 1
+      - path: Bone_Master/Bone_Column1
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_Column3
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_Column3/Bone_Neck1
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_Column3/Bone_Neck1/Bone_Neck2
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_Column3/Bone_Neck1/Bone_Neck2/Bone_Head
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerForeHBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerForeHBaseL/Bone_FingerForeFBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerForeHBaseL/Bone_FingerForeFBaseL/Bone_FingerForeMidL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerForeHBaseL/Bone_FingerForeFBaseL/Bone_FingerForeMidL/Bone_FingerForeTopL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerMiddleHBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerMiddleHBaseL/Bone_FingerMiddleFBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerMiddleHBaseL/Bone_FingerMiddleFBaseL/Bone_FingerMiddleMidL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerMiddleHBaseL/Bone_FingerMiddleFBaseL/Bone_FingerMiddleMidL/Bone_FingerMiddleTopL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerPinkieHBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerPinkieHBaseL/Bone_FingerPinkieFBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerPinkieHBaseL/Bone_FingerPinkieFBaseL/Bone_FingerPinkieMidL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerPinkieHBaseL/Bone_FingerPinkieFBaseL/Bone_FingerPinkieMidL/Bone_FingerPinkieTopL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerRingHBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerRingHBaseL/Bone_FingerRingFBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerRingHBaseL/Bone_FingerRingFBaseL/Bone_FingerRingMidL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerRingHBaseL/Bone_FingerRingFBaseL/Bone_FingerRingMidL/Bone_FingerRingTopL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerThumbHBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerThumbHBaseL/Bone_FingerThumbFBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerThumbHBaseL/Bone_FingerThumbFBaseL/Bone_FingerThumbTopL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerForeHBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerForeHBaseR/Bone_FingerForeFBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerForeHBaseR/Bone_FingerForeFBaseR/Bone_FingerForeMidR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerForeHBaseR/Bone_FingerForeFBaseR/Bone_FingerForeMidR/Bone_FingerForeTopR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerMiddleHBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerMiddleHBaseR/Bone_FingerMiddleFBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerMiddleHBaseR/Bone_FingerMiddleFBaseR/Bone_FingerMiddleMidR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerMiddleHBaseR/Bone_FingerMiddleFBaseR/Bone_FingerMiddleMidR/Bone_FingerMiddleTopR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerPinkieHBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerPinkieHBaseR/Bone_FingerPinkieFBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerPinkieHBaseR/Bone_FingerPinkieFBaseR/Bone_FingerPinkieMidR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerPinkieHBaseR/Bone_FingerPinkieFBaseR/Bone_FingerPinkieMidR/Bone_FingerPinkieTopR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerRingHBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerRingHBaseR/Bone_FingerRingFBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerRingHBaseR/Bone_FingerRingFBaseR/Bone_FingerRingMidR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerRingHBaseR/Bone_FingerRingFBaseR/Bone_FingerRingMidR/Bone_FingerRingTopR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerThumbHBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerThumbHBaseR/Bone_FingerThumbFBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerThumbHBaseR/Bone_FingerThumbFBaseR/Bone_FingerThumbTopR
+        weight: 1
+      - path: Bone_Master/Bone_HipL
+        weight: 1
+      - path: Bone_Master/Bone_HipL/Bone_LegL
+        weight: 1
+      - path: Bone_Master/Bone_HipL/Bone_LegL/Bone_ChinL
+        weight: 1
+      - path: Bone_Master/Bone_HipL/Bone_LegL/Bone_ChinL/Bone_AnkleL
+        weight: 1
+      - path: Bone_Master/Bone_HipL/Bone_LegL/Bone_ChinL/Bone_AnkleL/Bone_FootL
+        weight: 1
+      - path: Bone_Master/Bone_HipR
+        weight: 1
+      - path: Bone_Master/Bone_HipR/Bone_LegR
+        weight: 1
+      - path: Bone_Master/Bone_HipR/Bone_LegR/Bone_ChinR
+        weight: 1
+      - path: Bone_Master/Bone_HipR/Bone_LegR/Bone_ChinR/Bone_AnkleR
+        weight: 1
+      - path: Bone_Master/Bone_HipR/Bone_LegR/Bone_ChinR/Bone_AnkleR/Bone_FootR
+        weight: 1
+      - path: Cabeca
+        weight: 1
+      - path: Calcas
+        weight: 1
+      - path: Casaco
+        weight: 1
+      - path: Maos
+        weight: 1
+      - path: Sapato
+        weight: 1
+      - path: Torso
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Levantando
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 561
+      lastFrame: 770
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bengala
+        weight: 1
+      - path: Bone_Bengala
+        weight: 1
+      - path: Bone_Master
+        weight: 1
+      - path: Bone_Master/Bone_Column1
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_Column3
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_Column3/Bone_Neck1
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_Column3/Bone_Neck1/Bone_Neck2
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_Column3/Bone_Neck1/Bone_Neck2/Bone_Head
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerForeHBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerForeHBaseL/Bone_FingerForeFBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerForeHBaseL/Bone_FingerForeFBaseL/Bone_FingerForeMidL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerForeHBaseL/Bone_FingerForeFBaseL/Bone_FingerForeMidL/Bone_FingerForeTopL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerMiddleHBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerMiddleHBaseL/Bone_FingerMiddleFBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerMiddleHBaseL/Bone_FingerMiddleFBaseL/Bone_FingerMiddleMidL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerMiddleHBaseL/Bone_FingerMiddleFBaseL/Bone_FingerMiddleMidL/Bone_FingerMiddleTopL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerPinkieHBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerPinkieHBaseL/Bone_FingerPinkieFBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerPinkieHBaseL/Bone_FingerPinkieFBaseL/Bone_FingerPinkieMidL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerPinkieHBaseL/Bone_FingerPinkieFBaseL/Bone_FingerPinkieMidL/Bone_FingerPinkieTopL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerRingHBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerRingHBaseL/Bone_FingerRingFBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerRingHBaseL/Bone_FingerRingFBaseL/Bone_FingerRingMidL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerRingHBaseL/Bone_FingerRingFBaseL/Bone_FingerRingMidL/Bone_FingerRingTopL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerThumbHBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerThumbHBaseL/Bone_FingerThumbFBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerThumbHBaseL/Bone_FingerThumbFBaseL/Bone_FingerThumbTopL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerForeHBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerForeHBaseR/Bone_FingerForeFBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerForeHBaseR/Bone_FingerForeFBaseR/Bone_FingerForeMidR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerForeHBaseR/Bone_FingerForeFBaseR/Bone_FingerForeMidR/Bone_FingerForeTopR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerMiddleHBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerMiddleHBaseR/Bone_FingerMiddleFBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerMiddleHBaseR/Bone_FingerMiddleFBaseR/Bone_FingerMiddleMidR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerMiddleHBaseR/Bone_FingerMiddleFBaseR/Bone_FingerMiddleMidR/Bone_FingerMiddleTopR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerPinkieHBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerPinkieHBaseR/Bone_FingerPinkieFBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerPinkieHBaseR/Bone_FingerPinkieFBaseR/Bone_FingerPinkieMidR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerPinkieHBaseR/Bone_FingerPinkieFBaseR/Bone_FingerPinkieMidR/Bone_FingerPinkieTopR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerRingHBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerRingHBaseR/Bone_FingerRingFBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerRingHBaseR/Bone_FingerRingFBaseR/Bone_FingerRingMidR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerRingHBaseR/Bone_FingerRingFBaseR/Bone_FingerRingMidR/Bone_FingerRingTopR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerThumbHBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerThumbHBaseR/Bone_FingerThumbFBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerThumbHBaseR/Bone_FingerThumbFBaseR/Bone_FingerThumbTopR
+        weight: 1
+      - path: Bone_Master/Bone_HipL
+        weight: 1
+      - path: Bone_Master/Bone_HipL/Bone_LegL
+        weight: 1
+      - path: Bone_Master/Bone_HipL/Bone_LegL/Bone_ChinL
+        weight: 1
+      - path: Bone_Master/Bone_HipL/Bone_LegL/Bone_ChinL/Bone_AnkleL
+        weight: 1
+      - path: Bone_Master/Bone_HipL/Bone_LegL/Bone_ChinL/Bone_AnkleL/Bone_FootL
+        weight: 1
+      - path: Bone_Master/Bone_HipR
+        weight: 1
+      - path: Bone_Master/Bone_HipR/Bone_LegR
+        weight: 1
+      - path: Bone_Master/Bone_HipR/Bone_LegR/Bone_ChinR
+        weight: 1
+      - path: Bone_Master/Bone_HipR/Bone_LegR/Bone_ChinR/Bone_AnkleR
+        weight: 1
+      - path: Bone_Master/Bone_HipR/Bone_LegR/Bone_ChinR/Bone_AnkleR/Bone_FootR
+        weight: 1
+      - path: Cabeca
+        weight: 1
+      - path: Calcas
+        weight: 1
+      - path: Casaco
+        weight: 1
+      - path: Maos
+        weight: 1
+      - path: Sapato
+        weight: 1
+      - path: Torso
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: OlhandoParaOOutroLado
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 771
+      lastFrame: 800
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bengala
+        weight: 1
+      - path: Bone_Bengala
+        weight: 1
+      - path: Bone_Master
+        weight: 1
+      - path: Bone_Master/Bone_Column1
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_Column3
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_Column3/Bone_Neck1
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_Column3/Bone_Neck1/Bone_Neck2
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_Column3/Bone_Neck1/Bone_Neck2/Bone_Head
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerForeHBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerForeHBaseL/Bone_FingerForeFBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerForeHBaseL/Bone_FingerForeFBaseL/Bone_FingerForeMidL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerForeHBaseL/Bone_FingerForeFBaseL/Bone_FingerForeMidL/Bone_FingerForeTopL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerMiddleHBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerMiddleHBaseL/Bone_FingerMiddleFBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerMiddleHBaseL/Bone_FingerMiddleFBaseL/Bone_FingerMiddleMidL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerMiddleHBaseL/Bone_FingerMiddleFBaseL/Bone_FingerMiddleMidL/Bone_FingerMiddleTopL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerPinkieHBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerPinkieHBaseL/Bone_FingerPinkieFBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerPinkieHBaseL/Bone_FingerPinkieFBaseL/Bone_FingerPinkieMidL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerPinkieHBaseL/Bone_FingerPinkieFBaseL/Bone_FingerPinkieMidL/Bone_FingerPinkieTopL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerRingHBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerRingHBaseL/Bone_FingerRingFBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerRingHBaseL/Bone_FingerRingFBaseL/Bone_FingerRingMidL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerRingHBaseL/Bone_FingerRingFBaseL/Bone_FingerRingMidL/Bone_FingerRingTopL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerThumbHBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerThumbHBaseL/Bone_FingerThumbFBaseL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaL/Bone_ArmL/Bone_ForeArmL/Bone_HandL/Bone_FingerThumbHBaseL/Bone_FingerThumbFBaseL/Bone_FingerThumbTopL
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerForeHBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerForeHBaseR/Bone_FingerForeFBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerForeHBaseR/Bone_FingerForeFBaseR/Bone_FingerForeMidR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerForeHBaseR/Bone_FingerForeFBaseR/Bone_FingerForeMidR/Bone_FingerForeTopR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerMiddleHBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerMiddleHBaseR/Bone_FingerMiddleFBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerMiddleHBaseR/Bone_FingerMiddleFBaseR/Bone_FingerMiddleMidR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerMiddleHBaseR/Bone_FingerMiddleFBaseR/Bone_FingerMiddleMidR/Bone_FingerMiddleTopR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerPinkieHBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerPinkieHBaseR/Bone_FingerPinkieFBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerPinkieHBaseR/Bone_FingerPinkieFBaseR/Bone_FingerPinkieMidR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerPinkieHBaseR/Bone_FingerPinkieFBaseR/Bone_FingerPinkieMidR/Bone_FingerPinkieTopR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerRingHBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerRingHBaseR/Bone_FingerRingFBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerRingHBaseR/Bone_FingerRingFBaseR/Bone_FingerRingMidR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerRingHBaseR/Bone_FingerRingFBaseR/Bone_FingerRingMidR/Bone_FingerRingTopR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerThumbHBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerThumbHBaseR/Bone_FingerThumbFBaseR
+        weight: 1
+      - path: Bone_Master/Bone_Column1/Bone_Column2/Bone_ScapulaR/Bone_ArmR/Bone_ForeArmR/Bone_HandR/Bone_FingerThumbHBaseR/Bone_FingerThumbFBaseR/Bone_FingerThumbTopR
+        weight: 1
+      - path: Bone_Master/Bone_HipL
+        weight: 1
+      - path: Bone_Master/Bone_HipL/Bone_LegL
+        weight: 1
+      - path: Bone_Master/Bone_HipL/Bone_LegL/Bone_ChinL
+        weight: 1
+      - path: Bone_Master/Bone_HipL/Bone_LegL/Bone_ChinL/Bone_AnkleL
+        weight: 1
+      - path: Bone_Master/Bone_HipL/Bone_LegL/Bone_ChinL/Bone_AnkleL/Bone_FootL
+        weight: 1
+      - path: Bone_Master/Bone_HipR
+        weight: 1
+      - path: Bone_Master/Bone_HipR/Bone_LegR
+        weight: 1
+      - path: Bone_Master/Bone_HipR/Bone_LegR/Bone_ChinR
+        weight: 1
+      - path: Bone_Master/Bone_HipR/Bone_LegR/Bone_ChinR/Bone_AnkleR
+        weight: 1
+      - path: Bone_Master/Bone_HipR/Bone_LegR/Bone_ChinR/Bone_AnkleR/Bone_FootR
+        weight: 1
+      - path: Cabeca
+        weight: 1
+      - path: Calcas
+        weight: 1
+      - path: Casaco
+        weight: 1
+      - path: Maos
+        weight: 1
+      - path: Sapato
+        weight: 1
+      - path: Torso
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.01
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
