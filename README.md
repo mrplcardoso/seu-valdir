@@ -3,7 +3,7 @@
 # Seu Valdir
 
 A game to stimulate social awareness and to show that our actions bring consequences for our lives.
-Remake from a game jam, using old assets but remaking the scenarios, mini games, and finalizing the soundtrack.
+Remake from a game jam, using old assets but refactoring the scenarios, mini games, and finalizing the soundtrack.
 
 ## Requirements
 
