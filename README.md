@@ -16,7 +16,7 @@ Remake from a game jam (2014), using old assets but refactoring the scenarios, m
 ## Authors
 
 * Daniel Rivers: 3D Artist
-* Felipe Dias: 2D Artist, Concept Art
+* Felipe Dias: 2D Artist, Concept Artist
 * Luiz Carlos P. Jr.: Programmer
 * Marcos Lima: Music/SFX Composer
 * Marcos Paulo Cardoso: Programmer, Music Composer
