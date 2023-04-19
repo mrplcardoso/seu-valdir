@@ -1,5 +1,3 @@
-# README #
-
 # Seu Valdir
 
 Seu Valdir is an elderly man who is bitter about living alone, a consequence of having been a selfish person and mean to others, which pushed everyone away from him, and now he has to deal with this remorse.  
@@ -14,7 +12,7 @@ Remake from a game jam (2014), using old assets but refactoring the scenarios, m
 
 - https://gamejolt.com/games/a_saga_de_seu_valdir/581172
 
-## Video Demo
+## Demo Video
 
 - https://youtu.be/2x_LO9tW0tk
 
