@@ -2,7 +2,8 @@
 
 # Seu Valdir
 
-A game to stimulate social awareness and to show that our actions bring consequences for our lives.
+Seu Valdir is an elderly man who is bitter about living alone, a consequence of having been a selfish person and mean to others, which pushed everyone away from him, and now he has to deal with this remorse.  
+A game to stimulate social awareness and to show that our actions bring consequences for our lives.  
 Remake from a game jam (2014), using old assets but refactoring the scenarios, mini games, and finalizing the soundtrack.
 
 ## Requirements
@@ -12,6 +13,10 @@ Remake from a game jam (2014), using old assets but refactoring the scenarios, m
 ## Web Build
 
 - https://gamejolt.com/games/a_saga_de_seu_valdir/581172
+
+## Video Demo
+
+- https://youtu.be/2x_LO9tW0tk
 
 ## Authors
 
